@@ -23,7 +23,7 @@ python -m asl_detection.infer_webcam
 ```
 
 ## Inference Snippet
-
+https://youtu.be/7D47DNTXkW8
 
 ## Results
 The methods used are YOLOV8 with the following results:
